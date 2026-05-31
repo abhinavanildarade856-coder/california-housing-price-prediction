@@ -19,9 +19,8 @@ This project predicts California housing prices using machine learning technique
 6. Model Evaluation
 7. Prediction Analysis
 
-## Technologies Used
+## Python libray Used
 
-* Python
 * Pandas
 * NumPy
 * Matplotlib
@@ -30,9 +29,10 @@ This project predicts California housing prices using machine learning technique
 
 ## Files Included
 
-* `housing_price_prediction_california.ipynb`
 * `housing_price_prediction_california.pdf`
 * `README.md`
+* `California_housing data set in zipped file`
+  
 
 ## Note
 
